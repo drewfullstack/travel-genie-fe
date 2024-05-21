@@ -7,6 +7,7 @@ const RootLayout = () => {
       <Stack.Screen name="onboarding/Screen1" />
       <Stack.Screen name="onboarding/Screen2" />
       <Stack.Screen name="onboarding/Screen3" />
+      <Stack.Screen name="generate-booking/booking-details/Location" />
     </Stack>
   );
 };
